@@ -1,9 +1,8 @@
-
-<!-- vim-markdown-toc GFM -->
-
 # 温馨提示
 强烈建议您参照[https://toutyrater.github.io/](https://toutyrater.github.io/)上的模板自行搭建，能不使用一键脚本那就尽量不要使用！
 
+<!-- vim-markdown-toc GFM -->
+#目录
 * [V2ray.fun](#v2rayfun)
     * [功能](#功能)
     * [安装命令](#安装命令)
